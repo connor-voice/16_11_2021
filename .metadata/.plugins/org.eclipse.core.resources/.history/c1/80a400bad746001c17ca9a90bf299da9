@@ -1,0 +1,5 @@
+package com.liskov.example;
+
+public class Studio extends Apartment {
+
+}

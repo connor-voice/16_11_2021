@@ -1,0 +1,12 @@
+package com.qa.wrong;
+
+public class Runner {
+	
+	public static void main(String[] args) {
+		
+		DogCatch play = new DogCatch();
+		
+		Dog jefferey = new Dog("Staff", "Brown", true);
+		
+	}	
+}

@@ -1,0 +1,5 @@
+package com.bird.exercise;
+
+public class Falcon implements Bird {
+
+}

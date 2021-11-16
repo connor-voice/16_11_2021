@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Bird.java&apos; to &apos;BirdExercise/src/interfaces&apos;&#x0D;&#x0A;- Original project: &apos;BirdExercise&apos;&#x0D;&#x0A;- Destination element: &apos;BirdExercise/src/interfaces&apos;&#x0D;&#x0A;- Original element: &apos;com.bird.exercise.Bird.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;interfaces" element1="/src&lt;com.bird.exercise{Bird.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1637077929617" units="1" version="1.0"/>
+</session>

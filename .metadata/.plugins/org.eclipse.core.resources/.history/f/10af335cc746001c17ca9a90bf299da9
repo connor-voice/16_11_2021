@@ -1,0 +1,8 @@
+package com.qa.wrong;
+
+public class DogCatch {
+	
+	public void playCatch() {
+		System.out.println("I got the ball!");
+	}
+}
